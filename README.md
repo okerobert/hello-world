@@ -1,2 +1,2 @@
 # hello-world
-Trying to understand hoe to use github
+Trying to understand how to use github
